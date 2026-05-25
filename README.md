@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Luís Fonte 👋
 
-<!--
-**luisfonte-sec/luisfonte-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity leader with experience in:
 
-Here are some ideas to get you started:
+- AI Governance & Risk
+- Enterprise Security
+- AI Security Assessments
+- Secure adoption of GenAI
+- AI Governance frameworks
+- Operational Security
+- Risk Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in contributing to:
+
+- AI Security
+- Agentic AI Security
+- MCP Security
+- Governance & Risk
