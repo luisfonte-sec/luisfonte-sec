@@ -1,6 +1,6 @@
 # Hi, I'm Luís Fonte 👋
 
-Cybersecurity leader focused on AI Governance, Enterprise Security and Secure AI Adoption in regulated environments.
+Cybersecurity professional focused on AI Governance, Enterprise Security and Secure AI Adoption in regulated environments.
 
 ## Experience areas
 - AI Governance & Risk
@@ -21,4 +21,4 @@ Cybersecurity leader focused on AI Governance, Enterprise Security and Secure AI
 - AI Risk Frameworks
 
 ## Current interests
-Exploring secure adoption of AI in enterprise environments, AI governance models and practical approaches to reducing AI-related risks.
+Particularly interested in practical AI security challenges in banking, critical infrastructure and large enterprise environments.
